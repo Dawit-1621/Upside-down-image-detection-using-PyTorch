@@ -1,1 +1,1 @@
-# Upside down image detection using PyTorch
+## Upside down image detection using PyTorch
