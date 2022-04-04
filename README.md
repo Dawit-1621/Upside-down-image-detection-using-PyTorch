@@ -1,4 +1,5 @@
 ## Upside down image detection using PyTorch
+
 Upside down detector: Train a model to detect if images are upside down
 * Pick a dataset of natural images (we suggest looking at datasets on the Hugging Face Hub)
 * Synthetically turn some of images upside down. Create a training and test set.
@@ -11,6 +12,7 @@ My Approach to solve the problem I use transfer learning techniques which provid
 
 
 ### Dataset
+
 You can Downlaod the Dataset from here.
 This Dataset is Derived from Flickers Faces HQ Dataset
 
