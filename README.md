@@ -12,7 +12,6 @@ My Approach to solve the problem I use transfer learning techniques which provid
 
 ### Dataset
 You can Downlaod the Dataset from here.
-
 This Dataset is Derived from Flickers Faces HQ Dataset
 
 This Dataset contains 20k images with 10k original and 10k Upside_Down images.Each Image has size of 256 * 256.
