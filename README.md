@@ -7,4 +7,3 @@ Similar to Residual Networks that add a connection from the preceding layer, Den
 * You can Download the Dataset from here.
 * This Dataset is Derived from Flickers Faces HQ Dataset
 * This Dataset contains 20k images with 10k original and 10k Upside_Down images. Each Image has a size of 256 * 256.
-* 
