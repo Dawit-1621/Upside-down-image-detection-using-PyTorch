@@ -1,4 +1,4 @@
-## Upside-Down Image Detection
+### Upside-Down Image Detection
 
 My Approach to solving the problem I use transfer learning techniques which provide SOTA (state-of-the-art). There are many pre-trained models like Resnets, VGG, Denseness, etc. The reason why I choose Densenet over Resnet is Dense Networks is a relatively recent implementation of Convolutional Neural Networks, that expand the idea proposed for Residual Networks, which have become a standard implementation for feature extraction on image data. 
 
