@@ -6,6 +6,7 @@ Similar to Residual Networks that add a connection from the preceding layer, Den
 
 
 ### Dataset
+* You can Download the Dataset from here (https://github.com/NVlabs/ffhq-dataset).
 * The dataset that we are using has been derived from the Flicker Faces HQ dataset.
 * This Dataset contains 20k images with 10k original and 10k Upside_Down images. Each Image has a size of 256 * 256.
 
