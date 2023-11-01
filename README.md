@@ -8,3 +8,11 @@ Similar to Residual Networks that add a connection from the preceding layer, Den
 ### Dataset
 * The dataset that we are using has been derived from the Flicker Faces HQ dataset.
 * This Dataset contains 20k images with 10k original and 10k Upside_Down images. Each Image has a size of 256 * 256.
+
+## Train a model to detect if images are upside down using deep learning vision.
+Pick an image dataset (you can pick any dataset that you're comfortable with)
+Synthetically turn some of images upside down
+Build a neural network (using Tensorflow, PyTorch, or any framework you like)
+Train it to classify image orientation until a reasonable accuracy is reached
+Look at some of the images that were classified incorrectly
+Answer the following question: what is 1 idea that you have to improve your model's performance on this dataset (you don't have to implement it)
