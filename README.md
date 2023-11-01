@@ -13,6 +13,6 @@ Similar to Residual Networks that add a connection from the preceding layer, Den
 * Please choose an image dataset that you are comfortable working with. You have the freedom to select any dataset of your choice.
 * One task to perform is to artificially invert a selection of images.
 * Create a neural network using Tensorflow, PyTorch, or any other framework of your choice.
-* Train it to classify image orientation until a reasonable accuracy is reached
+* The task is to train the model to classify the orientation of images until it achieves a satisfactory level of accuracy.
 * Look at some of the images that were classified incorrectly
 * Answer the following question: what is 1 idea that you have to improve your model's performance on this dataset (you don't have to implement it)
