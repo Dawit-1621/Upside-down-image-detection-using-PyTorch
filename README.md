@@ -15,4 +15,4 @@ Similar to Residual Networks that add a connection from the preceding layer, Den
 * Create a neural network using Tensorflow, PyTorch, or any other framework of your choice.
 * The task is to train the model to classify the orientation of images until it achieves a satisfactory level of accuracy.
 * Please take a look at some of the images that were classified incorrectly.
-* Answer the following question: what is 1 idea that you have to improve your model's performance on this dataset (you don't have to implement it)
+* Answer the question: What is one idea to improve model performance on the dataset?
