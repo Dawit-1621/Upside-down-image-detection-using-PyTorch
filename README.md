@@ -11,7 +11,7 @@ Similar to Residual Networks that add a connection from the preceding layer, Den
 
 ## Train a model to detect if images are upside down using deep learning vision.
 * Pick an image dataset (you can pick any dataset that you're comfortable with)
-Synthetically turn some of images upside down
+* Synthetically turn some of images upside down
 Build a neural network (using Tensorflow, PyTorch, or any framework you like)
 Train it to classify image orientation until a reasonable accuracy is reached
 Look at some of the images that were classified incorrectly
