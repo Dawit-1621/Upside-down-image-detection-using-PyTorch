@@ -1,4 +1,4 @@
-### Upside-Down Image Detection
+## Upside-Down Image Detection
 
 My Approach to solving the problem I use transfer learning techniques which provide SOTA (state-of-the-art). There are many pre-trained models like Resnets, VGG, Denseness, etc. The reason why I choose Densenet over Resnet is Dense Networks is a relatively recent implementation of Convolutional Neural Networks, that expand the idea proposed for Residual Networks, which have become a standard implementation for feature extraction on image data. 
 
@@ -10,7 +10,7 @@ Similar to Residual Networks that add a connection from the preceding layer, Den
 * This Dataset contains 20k images with 10k original and 10k Upside_Down images. Each Image has a size of 256 * 256.
 
 
-## Train a model to detect if images are upside down using deep learning vision.
+### Train a model to detect if images are upside down using deep learning vision.
 * Please choose an image dataset that you are comfortable working with. You have the freedom to select any dataset of your choice.
 * One task to perform is to artificially invert a selection of images.
 * Create a neural network using Tensorflow, PyTorch, or any other framework of your choice.
