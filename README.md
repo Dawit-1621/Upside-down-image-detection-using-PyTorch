@@ -17,3 +17,6 @@ Similar to Residual Networks that add a connection from the preceding layer, Den
 * Please take a look at some of the images that were classified incorrectly.
 * Answer the question: What is one idea to improve model performance on the dataset?
 
+
+
+
